@@ -1,9 +1,28 @@
 ![alt](img/codvsval.jpg.webp "logo Title Text 1")
 
-# Team Call Of Duty
+# MidTerm Debate
 
-Debate
+## Ethan (Team Valorant)
 
-## Team Member 1: Deviano (Call of Duty)
+Ethan is 19 years old, is from Northern Ontario, plays video games competitively in esports for the Fanshawe FUEL, loves to play guitar, and loves to perform and listen to music.
 
- When call of Duty is at its best, they can offer an experience quite unlike anthing else out there.The campaigns have a cinematic quality that few genre contenders can offer, while the online side to play has always been fast, frantic, and unbelievably competitive.
+## Deviano (Team Call of Duty)
+
+Deviano is 32 years old, is from The Bahamas. Deviano loves to play video games mainly call of duty. Loves reading manga and watching anime.
+
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## Credits
+
+Ethan Jutila and Deviano Dames worked on this writing piece.
+
+## License
+
+MIT
